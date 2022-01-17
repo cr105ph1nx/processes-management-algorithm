@@ -7,11 +7,11 @@ SUM_PRIORITIES = 14138
 KILO = 1024
 DICT_PROCESSES = {
     # "COLOR": [PRIORITY, T_CPU, QUANTUM, EXECUTION_VALUE]
-    "WHITE": [9548, 0, 0, 0],
-    "RED": [3121, 0, 0, 0],
-    "GREEN": [1024, 0, 0, 0],
-    "BLUE": [335, 0, 0, 0],
-    "YELLOW": [110, 0, 0, 0],
+    "white": [9548, 0, 0, 0],
+    "green": [1024, 0, 0, 0],
+    "red": [3121, 0, 0, 0],
+    "blue": [335, 0, 0, 0],
+    "yellow": [110, 0, 0, 0],
 }
 CURRENT_PROCESS = ""
 
